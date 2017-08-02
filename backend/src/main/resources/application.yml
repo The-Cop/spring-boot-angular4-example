@@ -1,0 +1,5 @@
+ cxf:
+  path: /api
+  jaxrs:
+    component-scan: true
+
